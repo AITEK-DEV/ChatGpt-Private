@@ -1,4 +1,6 @@
-# privateGPT
+# ChatGpt-Private
+Haga preguntas a sus documentos sin conexión a Internet, utilizando el poder de los LLM. 100% privado, ningún dato sale de su entorno de ejecución en ningún momento. ¡Puede ingerir documentos y hacer preguntas sin conexión a Internet!
+
 Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection!
 
 Built with [LangChain](https://github.com/hwchase17/langchain), [GPT4All](https://github.com/nomic-ai/gpt4all), [LlamaCpp](https://github.com/ggerganov/llama.cpp), [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
